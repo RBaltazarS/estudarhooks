@@ -3,7 +3,8 @@ import Link from "next/link"
 export default function Home() {
   return (
     <div className="flex flex-col items-center justify-center bg-gray-300">
-      <h1 className="text-4xl font-bold mb-8 mt-8 items-center justify-center">Hello DEV, Vamos Estudar Hooks!</h1>
+      <h1 className="text-4xl font-bold mb-8 mt-8 text-center sm:text-5xl md:text-5xl lg:text-5xl xl:text-5xl">Hello DEV, Vamos Estudar Hooks!</h1>
+
       <div className="bg-gray-200 p-4 rounded-lg shadow-lg">
         <h2 className="text-xl font-bold mb-4">Lista Hooks[EXEMPLOS]</h2>
         <div className="flex flex-col gap-2">

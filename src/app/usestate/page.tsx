@@ -14,7 +14,7 @@ export default function UseStatePage() {
             recebidos de uma API, estado de formulários ou informações de interação do usuário.
           </p>
         </div>
-        <button className="mt-4 px-4 py-2 bg-blue-500 text-white rounded hover:bg-blue-600">
+        <button className="mt-4 px-4 py-2 bg-gray-500 text-white rounded hover:bg-gray-800">
           <Link href="/">Voltar</Link>
         </button>
       </div>

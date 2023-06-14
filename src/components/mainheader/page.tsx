@@ -1,9 +1,6 @@
 import Link from "next/link"
 
 //Icons.
-import { FaWhatsapp } from 'react-icons/fa';
-import { FaGithub } from 'react-icons/fa';
-import { FaLinkedin } from 'react-icons/fa';
 
 type User = {
   avatar_url: string;
