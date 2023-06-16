@@ -12,7 +12,7 @@ const nextConfig = {
         protocol: "https",
         hostname: "avatars.githubusercontent.com",
         port: "",
-        pathname: "/u/63020237?v=4", 
+        pathname: "/u/**", 
       },
     ],
     minimumCacheTTL:1500000
